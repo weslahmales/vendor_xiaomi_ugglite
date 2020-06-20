@@ -119,7 +119,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/etc/camera/s5k3p3sm_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p3sm_chromatix.xml \
     vendor/xiaomi/ugglite/proprietary/vendor/etc/camera/s5k3p3st_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p3st_chromatix.xml \
     vendor/xiaomi/ugglite/proprietary/vendor/etc/camera/s5k3p8_ofilm_d3_factory_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p8_ofilm_d3_factory_chromatix.xml \
-    vendor/xiaomi/rosy/proprietary/product/lib/vendor.qti.esepowermanager@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.qti.esepowermanager@1.0.so \
+    vendor/xiaomi/ugglite/proprietary/product/lib/vendor.qti.esepowermanager@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib/vendor.qti.esepowermanager@1.0.so \
     vendor/xiaomi/ugglite/proprietary/vendor/etc/camera/s5k3p8_sunny_d3_factory_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p8_sunny_d3_factory_chromatix.xml \
     vendor/xiaomi/ugglite/proprietary/vendor/etc/camera/s5k3p8_ulysse_ofilm_black_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p8_ulysse_ofilm_black_chromatix.xml \
     vendor/xiaomi/ugglite/proprietary/vendor/etc/camera/s5k3p8_ulysse_sunny_black_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/s5k3p8_ulysse_sunny_black_chromatix.xml \
@@ -142,7 +142,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/firmware/cpp_firmware_v1_5_2.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_5_2.fw \
     vendor/xiaomi/ugglite/proprietary/vendor/firmware/cpp_firmware_v1_6_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_6_0.fw \
     vendor/xiaomi/ugglite/proprietary/vendor/firmware/cpp_firmware_v1_8_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_8_0.fw \
-    vendor/xiaomi/rosy/proprietary/product/lib64/vendor.qti.esepowermanager@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.esepowermanager@1.0.so \
+    vendor/xiaomi/ugglite/proprietary/product/lib64/vendor.qti.esepowermanager@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.esepowermanager@1.0.so \
     
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libmmcamera_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_interface.so \
     vendor/xiaomi/ugglite/proprietary/vendor/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE_c3b.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE_c3b.xml \
@@ -163,7 +163,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libactuator_lc898122.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_lc898122.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libactuator_lc898212xd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_lc898212xd.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libactuator_lc898212xd_qc2002.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_lc898212xd_qc2002.so \
-    vendor/xiaomi/rosy/proprietary/vendor/bin/hw/vendor.qti.esepowermanager@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.esepowermanager@1.0-service \
+    vendor/xiaomi/ugglite/proprietary/vendor/bin/hw/vendor.qti.esepowermanager@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.esepowermanager@1.0-service \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libactuator_pseudo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_pseudo.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_rohm_bu64243gwz.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromaflash.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromaflash.so \
@@ -1578,7 +1578,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_cpp_video.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_cpp_weixin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_cpp_weixin.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_default_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_default_preview_3a.so \
-    vendor/xiaomi/rosy/proprietary/vendor/lib64/vendor.qti.esepowermanager@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.esepowermanager@1.0.so \
+    vendor/xiaomi/ugglite/proprietary/vendor/lib64/vendor.qti.esepowermanager@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.esepowermanager@1.0.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_default_video.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_default_video_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_default_video_3a.so \
     vendor/xiaomi/ugglite/proprietary/vendor/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_flash_preview_3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k3p8sp_d16s01n_sunny_d6s_flash_preview_3a.so \
